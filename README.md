@@ -14,8 +14,6 @@
 </h1>
 <br>
 <h2 align="center">
-  Hi, I am a Software Developer.
-  <br>
   I love learning new things and writing code. I also enjoy fixing any bugs which I create when I learn and code something new!
   <br>
   <br>
