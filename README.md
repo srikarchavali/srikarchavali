@@ -36,7 +36,7 @@
   <code><img title="NPM" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png"></code>
   <code><img title="Node.JS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
   <code><img title="Mongo DB" height="40" src="https://www.logolynx.com/images/logolynx/99/991650c8d4d9179da5a7432655fb2b0e.png"></code>
-  <code><img title="Mongo DB" height="40" src="https://simpleicons.org/?q=labview.png"></code>
+  <code><img title="LabView" height="40" src="https://unpkg.com/simple-icons@v6/icons/labview.svg"></code>
   </code>
 </p>
 <br>
