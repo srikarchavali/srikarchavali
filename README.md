@@ -13,17 +13,17 @@
   </a>
 </h1>
 <br>
-<h1 align="center">
+<h2 align="center">
   Hi, I am a Software Developer.
   <br>
   I love learning new things and writing code. I also enjoy fixing any bugs which I create when I learn and code something new!
   <br>
   <br>
   💡...😃...😒...🤔...🤩
-</h1>
+</h2>
 
 
-<h2 align="center">I can Work with:<br></h2>
+<h2 align="center">Tools I can Work with:<br></h2>
 <br>
 <p align="center">
   <code><img title="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
@@ -36,6 +36,7 @@
   <code><img title="NPM" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png"></code>
   <code><img title="Node.JS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
   <code><img title="Mongo DB" height="40" src="https://www.logolynx.com/images/logolynx/99/991650c8d4d9179da5a7432655fb2b0e.png"></code>
+  <code><img title="Mongo DB" height="40" src="https://simpleicons.org/?q=labview.png"></code>
   </code>
 </p>
 <br>
