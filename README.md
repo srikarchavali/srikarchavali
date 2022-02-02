@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srikar Chavali!</h1>
+<!-- <h1 align="center">Hi 👋, I'm Srikar Chavali!</h1>
 <br>
 
 - 🔭 I’m currently working on a course to become a full stack developer 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript -->
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=srikarchavali">
@@ -14,9 +14,9 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I am a Software Engineer from UK.
+  Hi, I am a Software Developer.
   <br>
-  I love writing code and fixing my own bugs!
+  I love learning new things and writing code. I also enjoy fixing any bugs which I create when I learn and code something new!
   <br>
   <br>
   💡...😃...😒...🤔...🤩
