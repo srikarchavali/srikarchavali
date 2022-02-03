@@ -14,9 +14,9 @@
 </h1>
 <br>
 <h2 align="center">
-<!--   I love learning new things and writing code. I also enjoy fixing any bugs which I create when I learn and code something new!
+  🔭 I’m currently working on a course to become a full stack developer 
   <br>
-  <br> -->
+  <br>
   💡...😃...😒...🤔...🤩
 </h2>
 
