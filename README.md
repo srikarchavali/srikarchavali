@@ -23,7 +23,7 @@
 
 <h2 align="center">Tools I can Work with:<br></h2>
 <br>
-<p align="center">
+<!-- <p align="center"> -->
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
@@ -42,7 +42,7 @@
 [<img src="https://img.shields.io/badge/JEST-282C34?logo=jest&logoColor=c33f21" alt="JEST logo" title="JEST" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-</p>
+<!-- </p> -->
 <br>
 <p align=center>
   <div align=center>
