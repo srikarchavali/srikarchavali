@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=1572B6" alt="python logo" title="Python" height="25" />
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/LabView-282C34?logo=labView&logoColor=F7DF1E" alt="python logo" title="LabView" height="25" /> 
+  <img src="https://img.shields.io/badge/ROS-282C34?logo=ros" alt="ROS logo" title="ROS" height="25" /> 
 </p>
 <br>
 <p align=center>
