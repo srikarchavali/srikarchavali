@@ -40,7 +40,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/LabView-282C34?logo=labView&logoColor=F7DF1E" alt="python logo" title="LabView" height="25" /> 
   <img src="https://img.shields.io/badge/ROS-282C34?logo=ros" alt="ROS logo" title="ROS" height="25" /> 
-</p>
+  <img src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" alt="matlab logo" title="MATLAB" height="25" /> 
+ </p>
 <br>
 <p align=center>
   <div align=center>
