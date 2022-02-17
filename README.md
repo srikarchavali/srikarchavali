@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/JEST-282C34?logo=jest&logoColor=c33f21" alt="JEST logo" title="JEST" height="25" />
+  <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=F7DF1E" alt="NPM logo" title="NPM" height="25" />
   <img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=1572B6" alt="python logo" title="Python" height="25" />
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/LabView-282C34?logo=labView&logoColor=F7DF1E" alt="python logo" title="LabView" height="25" /> 
